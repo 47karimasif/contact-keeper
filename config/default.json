@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://asif:hasinakhatoon@cluster0-h4fgl.mongodb.net/Contact-Keeper?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
