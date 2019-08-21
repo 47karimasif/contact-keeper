@@ -18,9 +18,10 @@ const About = (props) => {
             <p className="my-1">
                 This is a full stack React app for keeping contacts
             </p>
-            <p className="bg-dark p">
+            {/* <p className="bg-dark p">
                 <strong>Version: </strong>1.0.0
-            </p>
+            </p> */}
+            <h4 className="my-1">Created by : Asif karim</h4>
         </div>
     )
 }

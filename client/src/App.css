@@ -32,6 +32,7 @@ a:hover {
   color: #666;
 }
 
+
 ul {
   list-style: none;
 }
@@ -339,7 +340,8 @@ button {
 
 .form-container h1,
 h2,
-h3 {
+h3
+{
   text-align: center;
 }
 
